@@ -1,9 +1,13 @@
-# CLAUDE.md: regole del progetto 'CleanSVG' (`CleanSVG/`)
+# Rules.md: regole del progetto 'CleanSVG' (`CleanSVG/`)
 
-> **Cos'è questo file.** Le regole del progetto **CleanSVG**, la paginetta che ripulisce un
-> file SVG dai metadati e dai residui delle applicazioni di disegno. Si carica quando si legge
-> un file di questa cartella; le regole trasversali vivono nel `CLAUDE.md` di **root**, quelle
-> universali in `rules/Roccobot.md` di `Roccobot/tools`.
+> **Cos'è questo file.** Il testo completo delle regole del progetto **CleanSVG**, la paginetta
+> che ripulisce un file SVG dai metadati e dai residui delle applicazioni di disegno. Le regole
+> trasversali vivono nell'hub (repo `Roccobot/roccobot.github.io`), quelle universali in
+> `rules/Roccobot.md` di `Roccobot/tools`.
+> Vale per **tutti gli agenti**: il nucleo, cioè ogni regola in una riga, vive in `AGENTS.md`, e
+> questo file ne dà il perché. Claude Code lo carica da sé, perché `CLAUDE.md` lo importa.
+> ⚠️ **Fino al 2026-09-27 questo testo era il `CLAUDE.md` del repo**: una nota che nomina il
+> `CLAUDE.md` di CleanSVG per una di queste sezioni parla di questo file.
 
 ## 🧭 Che cos'è
 

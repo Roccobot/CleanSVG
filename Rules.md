@@ -237,7 +237,7 @@ l'ultima, perché le tavole sono spesso sovrapposte nello stesso punto.
   sono.
 - ⚠️ **Tocca solo l'ANTEPRIMA**: il file che si scarica contiene tutte le tavole, e la pagina lo
   dice sotto al riquadro. Senza quella riga sembrerebbe che lo strumento butti via il resto.
-- Una tavola `<svg>` porta la propria geometria e la radice si riquadra su di lei; un gruppo non
+- Una tavola `<svg>` ha la propria geometria e la radice si riquadra su di lei; un gruppo non
   ce l'ha, e allora la tela resta com'era. Basta comunque, perché il caso da risolvere era
   vederne una sopra l'altra.
 
@@ -265,7 +265,7 @@ il disegno non cambia, e **una promessa che nessuno verifica prima o poi mente**
   tutta la fascia fra lo 0,2% e lo 0,49% la percentuale cadeva a **zero**. Chi lo leggeva vedeva
   un avviso che si smentiva da sé, e a sembrare rotto era lo strumento invece del file.
   - **Adesso dice il numero di pixel**, come già fa il ramo verde sopra di lui, e la percentuale
-    porta le cifre che le servono (`quotaPercento`: due sotto l'uno per cento, una sotto il
+    mostra le cifre che le servono (`quotaPercento`: due sotto l'uno per cento, una sotto il
     dieci).
   - ⚠️ **La soglia non si è toccata**: quei pixel sono pochi ma non sono l'antialiasing, e
     alzarla per far tacere l'avviso avrebbe nascosto il fatto invece di dirlo meglio.

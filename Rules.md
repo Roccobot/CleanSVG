@@ -5,7 +5,8 @@
 > trasversali vivono nell'hub (repo `Roccobot/roccobot.github.io`), quelle universali in
 > `rules/Roccobot.md` di `Roccobot/tools`.
 > Vale per **tutti gli agenti**: il nucleo, cioè ogni regola in una riga, vive in `AGENTS.md`, e
-> questo file ne dà il perché. Claude Code lo carica da sé, perché `CLAUDE.md` lo importa.
+> questo file ne dà il perché. Dal 2026-10-10 nessun agente lo carica da sé, Claude Code
+> compreso: si legge per intero prima di lavorare su una cosa di cui parla.
 > ⚠️ **Fino al 2026-09-27 questo testo era il `CLAUDE.md` del repo**: una nota che nomina il
 > `CLAUDE.md` di CleanSVG per una di queste sezioni parla di questo file.
 

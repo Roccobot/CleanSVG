@@ -154,8 +154,8 @@ azioni in alto, anteprima e informazioni sotto.
 - ⚠️⚠️ **IL FOOTER NON C'È PIÙ, dalla `1.40`** (istruzione dell'utente), e la sua frase, *La
   pulizia è effettuata in locale.*, chiude la riga del motore: la sua casa naturale è accanto
   a chi dichiara **chi** sta pulendo, e due note che dicevano la stessa cosa erano una di
-  troppo. Le note che lo descrivono (poco visibile, allineato al contenuto delle carte) sono
-  superate.
+  troppo. Le note che lo descrivono sono superate (dettagli in `docs/Removed.md` § '📝 Il
+  footer della pagina').
 
 ## ⬇️ Un solo tasto di scaricamento
 
